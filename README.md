@@ -77,8 +77,6 @@ Dashboard criado no Zabbix para monitoramento da conexão de Internet residencia
 
 ### Monitoramentos
 
-```
-
 - Status de conectividade com 1.1.1.1
 - Status de conectividade com 8.8.8.8
 - Latência para 1.1.1.1
