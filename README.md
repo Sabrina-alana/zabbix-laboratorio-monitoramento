@@ -88,4 +88,4 @@ Dashboard criado no Zabbix para monitoramento da conexão de Internet residencia
 
 ### Dashboard
 
-![Dashboard de Monitoramento da Internet](dashboards/internet-vivo.png)
+![Dashboard de Monitoramento da Internet](internet-vivo.png)
