@@ -55,24 +55,23 @@ Foram criados dashboards para facilitar a visualização dos indicadores de infr
 
 ```text
                  INTERNET
-                     │
-             ┌───────▼───────┐
-             │ Roteador Vivo │
-             └───────┬───────┘
-                     │
-                    Wi-Fi
-                     │
-             ┌───────▼────────┐
-             │ Servidor Linux │
-             │    Zabbix      │
-             └───────┬────────┘
-                     │
-             ┌───────┴────────┐
-             │                │
-          1.1.1.1          8.8.8.8
+                      │
+              ┌───────▼───────┐
+              │  Roteador Vivo │
+              └───────┬───────┘
+                      │
+                     Wi-Fi
+                      │
+              ┌───────▼────────┐
+              │  Servidor Linux │
+              │     Zabbix      │
+              └───────┬────────┘
+                      │
+              ┌───────┴────────┐
+              │                │
+           1.1.1.1          8.8.8.8
 
-
-## Dashboard de Monitoramento
+## 📊 Dashboard de Monitoramento
 
 Dashboard criado no Zabbix para monitoramento da conexão de Internet residencial.
 
@@ -88,4 +87,4 @@ Dashboard criado no Zabbix para monitoramento da conexão de Internet residencia
 
 ### Dashboard
 
-![Dashboard de Monitoramento da Internet](internet-vivo.png)
+![Dashboard de Monitoramento da Internet](./internet-vivo.png)
